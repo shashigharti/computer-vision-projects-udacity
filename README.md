@@ -1,2 +1,2 @@
-# facial-keypoints-udacity
-CNN for facial keypoint detection
+# Computer Vision Udacity Projects
+1. CNN for facial keypoint detection
