@@ -1,4 +1,4 @@
 # Computer Vision Udacity Projects
 ## Projects
 1. CNN for facial keypoint detection
-2. 
+2. Image Captioning
